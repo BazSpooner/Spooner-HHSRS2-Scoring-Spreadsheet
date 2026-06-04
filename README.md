@@ -43,7 +43,7 @@ With limited official tools and case studies currently available, it provides a 
 ## 📥 How to Download
 
 ### Option 1 (Recommended)
-👉 Go to the **Releases** section of this repository and download the latest version (cureently v2.2)
+👉 Go to the **Releases** section of this repository (next to the preview picture) and download the latest version (currently v2.2)
 
 ### Option 2
 1. Click on the `.xlsm` file in this repository  
