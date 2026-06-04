@@ -49,6 +49,9 @@ With limited official tools and case studies currently available, it provides a 
 1. Click on the `.xlsm` file in this repository  
 2. Press the **Download (⬇)** icon in the top right  
 
+
+⚠️ Always download from the Releases section to ensure you are using the latest version.
+
 ---
 
 ## ⚠️ Important Information (Macros)
