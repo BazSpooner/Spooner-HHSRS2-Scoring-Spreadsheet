@@ -94,9 +94,14 @@ This tool helps address current gaps by:
 
 **v2.2 – Final edit before Case Studies are released**
 
+## 📘 Instructions
+
+User guidance is available in the `/instructions` folder within this repository.
+``
+
 ---
 
-## 🔍 Keywords (for search visibility)
+## 🔍 Keywords 
 
 HHSRS2 scoring sheet, HHSRS calculator Excel, housing hazard scoring tool, environmental health risk bands, UK housing inspections, HHSRS v2 tool, housing health and safety rating system calculator
 
