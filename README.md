@@ -1,8 +1,10 @@
 # HHSRS2 Hazard Scoring Tool (Free Excel)
 
+
 ## 📸 Preview
 
 preview.png
+
 
 
 A macro-enabled Excel tool developed to support Environmental Health Officers in delivering **consistent, transparent hazard scoring under HHSRS2**.
