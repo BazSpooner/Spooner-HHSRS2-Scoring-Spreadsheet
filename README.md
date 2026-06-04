@@ -89,7 +89,7 @@ This tool helps address current gaps by:
 
 ## ✅ Version
 
-**v2.2 – Initial public release**
+**v2.2 – Final edit before Case Studies are released**
 
 ---
 
