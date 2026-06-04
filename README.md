@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 
-![HHSRS2 Scoring Tool Preview](preview.png
+![HHSRS2 Scoring Tool Preview](preview.png)
 
 
 
