@@ -43,12 +43,8 @@ With limited official tools and case studies currently available, it provides a 
 
 ## 📥 How to Download
 
-### Option 1 (Recommended)
-👉 Go to the **Releases** section of this repository (next to the preview picture on PC or at the bottom of this readme on Phone) and download the latest version (currently v2.2)
 
-### Option 2
-1. Click on the `.xlsm` file in this repository  
-2. Press the **Download (⬇)** icon in the top right  
+👉 Go to the **Releases** section of this repository (next to the preview picture on PC or at the bottom of this readme on Phone) and download the latest version (currently v2.2
 
 
 ⚠️ Always download from the Releases section to ensure you are using the latest version.
