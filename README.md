@@ -112,4 +112,4 @@ For any questions, feedback, or suggestions, feel free to get in touch or raise 
 
 ## ⚖️ Disclaimer
 
-This tool is intended to support professional judgement and does not replace official guidance or statutory requirements.
+This tool is intended to support professional judgement for those HHSRS trained and does not replace official guidance or statutory requirements.
