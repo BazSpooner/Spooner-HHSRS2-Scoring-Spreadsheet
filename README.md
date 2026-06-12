@@ -7,7 +7,7 @@
 
 
 
-A macro-enabled Excel tool developed to support Environmental Health Officers in delivering **consistent, transparent hazard scoring under HHSRS2**.
+A macro-enabled Excel tool developed to support Environmental Health Officers in delivering **consistent, transparent hazard scoring under HHSRS2 (HHSRS 2026)**.
 
 Designed for UK housing professionals preparing for the **June 2026 HHSRS v2 rollout**.
 
@@ -15,7 +15,7 @@ Designed for UK housing professionals preparing for the **June 2026 HHSRS v2 rol
 
 ## ✅ What this tool does
 
-- Calculates **HHSRS2 hazard scores automatically**
+- Calculates **HHSRS2 (HHSRS 2026) hazard scores automatically**
 - Assigns **High, Medium, and Low risk bands**
 - Supports the **21 consolidated housing hazards**
 - Provides a **simple, inspection-ready Excel interface**
@@ -35,7 +35,7 @@ Designed for UK housing professionals preparing for the **June 2026 HHSRS v2 rol
 
 ## ✅ Purpose
 
-This tool is designed to ensure a **smooth, consistent transition** between existing HHSRS guidance and HHSRS2.
+This tool is designed to ensure a **smooth, consistent transition** between existing HHSRS guidance and HHSRS2 (HHSRS 2026).
 
 With limited official tools and case studies currently available, it provides a **practical, real-world solution** for calculating hazard scores during inspections.
 
@@ -100,7 +100,7 @@ User guidance is available in the `/instructions` folder within this repository.
 
 ## 🔍 Keywords 
 
-HHSRS2 scoring sheet, HHSRS calculator Excel, housing hazard scoring tool, environmental health risk bands, UK housing inspections, HHSRS v2 tool, housing health and safety rating system calculator
+HHSRS2 scoring sheet, HHSRS calculator Excel, housing hazard scoring tool, environmental health risk bands, UK housing inspections, HHSRS v2 tool, HHSRS 2026, housing health and safety rating system calculator
 
 ---
 
