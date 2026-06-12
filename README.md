@@ -1,4 +1,4 @@
-# HHSRS2 Hazard Scoring Tool (Free Excel)
+# HHSRS2 (HHSRS 2026) Hazard Scoring Tool (Free Excel)
 
 
 ## 📸 Preview
